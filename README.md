@@ -66,5 +66,3 @@ Guariento et al., *Defense–Competition Trade-offs Shape Prey Eco-Evolutionary 
 
 For questions about the code or model implementation, please contact the corresponding author listed in the manuscript files.
 
-Install dependencies with:
-
