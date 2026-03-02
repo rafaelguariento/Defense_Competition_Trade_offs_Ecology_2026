@@ -10,8 +10,7 @@ This repository contains code to reproduce the figures for the manuscript:
 ## Repository contents
 
 - Main notebook for figure generation: figure_generation_ecology_2026.ipynb
-- Additional notebooks and support files used during model development and supplementary analyses
-- Supplementary materials with parameterization and manuscript-related context
+
 
 ## Reproducibility note
 
