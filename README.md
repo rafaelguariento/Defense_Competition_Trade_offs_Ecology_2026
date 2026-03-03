@@ -14,7 +14,7 @@ This repository contains code to reproduce the figures for the manuscript:
 
 ## Reproducibility note
 
-Some figures may differ slightly in visual formatting from manuscript panels (for example, label placement or final layout refinements). In some cases, exported figures were adjusted in vector-graphics software for publication aesthetics. These edits are cosmetic; model outputs, curve structures, and qualitative conclusions are unchanged.
+Some figures may differ slightly in visual formatting from manuscript panels (for example, label placement or final layout refinements). In some cases, exported figures were adjusted in vector-graphics software for publication aesthetics. These edits are cosmetic; model outputs, curve structures, and qualitative and quantitative conclusions are unchanged.
 
 ## Requirements
 
