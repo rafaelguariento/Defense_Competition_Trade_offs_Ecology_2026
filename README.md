@@ -9,7 +9,7 @@ This repository contains code to reproduce the figures for the manuscript:
 
 ## Repository contents
 
-- Main notebook for figure generation: `codes.py`
+- Main notebook for figure generation: `figures.py`
 
 ## Requirements
 
@@ -28,7 +28,7 @@ Tested with **Python 3.10+** and the following packages:
 3. Launch the Marimo kernel and open the notebook:
 
    ```bash
-   marimo edit codes.py
+   marimo edit figures.py
    ```
 
 4. Run or interact with cells directly in the Marimo interface.
@@ -37,7 +37,7 @@ Tested with **Python 3.10+** and the following packages:
 ## How to run in MoLab
 
 1. Open [MoLab](https://molab.marimo.io/) in your browser.
-2. Click in the white down-arrow next to the green buttom (+ New Notebook) to **Upload** and select `codes.py`.
+2. Click in the white down-arrow next to the green buttom (+ New Notebook) to **Upload** and select `figures.py`.
 3. Run all cells directly in the notebook interface.
 
 
