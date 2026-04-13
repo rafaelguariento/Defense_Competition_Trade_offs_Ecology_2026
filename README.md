@@ -37,7 +37,7 @@ Tested with **Python 3.10+** and the following packages:
 ## How to run in MoLab
 
 1. Open [MoLab](https://molab.marimo.io/) in your browser.
-2. Click **Upload** and select `codes.py`.
+2. Click in the white down-arrow next to the green buttom (+ New Notebook) to **Upload** and select `codes.py`.
 3. Run all cells directly in the notebook interface.
 
 
