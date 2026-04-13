@@ -52,6 +52,3 @@ Guariento et al., *Defense–Competition Trade-offs Shape Prey Eco-Evolutionary 
 
 For questions about the code or model implementation, please contact the corresponding author listed in the manuscript files.
 
-***
-
-Would you like me to include explicit instructions for **Marimo app installation** (e.g. `pip install marimo` and launching behavior on local systems), or keep the focus just on notebook usage within MoLab?
