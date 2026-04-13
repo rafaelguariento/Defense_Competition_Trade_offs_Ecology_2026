@@ -9,50 +9,36 @@ This repository contains code to reproduce the figures for the manuscript:
 
 ## Repository contents
 
-- Main notebook for figure generation: figure_generation_ecology_2026.ipynb
-
-
-## Reproducibility note
-
-Some figures may differ slightly in visual formatting from manuscript panels (for example, label placement or final layout refinements). In some cases, exported figures were adjusted in vector-graphics software for publication aesthetics. These edits are cosmetic; model outputs, curve structures, and qualitative and quantitative conclusions are unchanged.
+- Main notebook for figure generation: `codes.py`
 
 ## Requirements
 
-Tested with Python 3.10+ and these packages:
+Tested with **Python 3.10+** and the following packages:
 
 - `numpy`
 - `pandas`
 - `matplotlib`
 - `scipy`
-
-
+- `marimo`
 
 ## How to run locally
 
 1. Clone or download this repository.
-2. Open figure_generation_ecology_2026.ipynb in Jupyter Lab, Jupyter Notebook, or VS Code.
-3. Run all cells from top to bottom.
-4. Figures are saved to the working directory using the filenames defined in each plotting cell.
+2. Install dependencies listed above (e.g. with `pip install -r requirements.txt` or manually).
+3. Launch the Marimo kernel and open the notebook:
 
-## How to run in Google Colab
+   ```bash
+   marimo edit codes.py
+   ```
 
-### Option A: Open directly from GitHub
+4. Run or interact with cells directly in the Marimo interface.
+5. Figures are saved to the working directory using filenames defined in each plotting cell.
 
-1. Upload this repository to GitHub.
-2. In Colab, go to **File → Open notebook → GitHub**.
-3. Paste your repository URL and open figure_generation_ecology_2026.ipynb.
-4. Run all cells.
+## How to run in MoLab
 
-### Option B: Upload notebook manually
-
-1. Open https://colab.research.google.com
-2. Click **Upload** and select figure_generation_ecology_2026.ipynb.
-3. Run all cells.
-
-If needed, install dependencies in a Colab cell:
-
-!pip install numpy pandas matplotlib scipy
-
+1. Open [MoLab](https://molab.marimo.io/) in your browser.
+2. Click **Upload** and select `codes.py`.
+3. Run all cells directly in the notebook interface.
 
 
 ## Citation
@@ -66,3 +52,6 @@ Guariento et al., *Defense–Competition Trade-offs Shape Prey Eco-Evolutionary 
 
 For questions about the code or model implementation, please contact the corresponding author listed in the manuscript files.
 
+***
+
+Would you like me to include explicit instructions for **Marimo app installation** (e.g. `pip install marimo` and launching behavior on local systems), or keep the focus just on notebook usage within MoLab?
