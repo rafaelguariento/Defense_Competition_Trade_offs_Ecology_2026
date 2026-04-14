@@ -24,15 +24,14 @@ Tested with **Python 3.10+** and the following packages:
 ## How to run locally
 
 1. Clone or download this repository.
-2. Install dependencies listed above (e.g. with `pip install -r requirements.txt` or manually).
-3. Launch the Marimo kernel and open the notebook:
+2. Launch the Marimo kernel and open the notebook:
 
    ```bash
    marimo edit figures_marimo.py
    ```
 
-4. Run or interact with cells directly in the Marimo interface.
-5. Figures are saved to the working directory using filenames defined in each plotting cell.
+3. Run or interact with cells directly in the Marimo interface.
+4. Figures are saved to the working directory using filenames defined in each plotting cell.
 
 ## How to run in MoLab
 
