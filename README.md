@@ -1,11 +1,9 @@
-# Figure Reproducibility Code (Ecology manuscript, under review)
+# Figure Reproducibility Code 
 
 This repository contains code to reproduce the figures for the manuscript:
 
 **Defense–Competition Trade-offs Shape Prey Eco-Evolutionary Dynamics Across Environmental Gradients**  
-(Guariento et al., *Ecology*, **currently under review**)
-
-> ⚠️ **Manuscript status:** This study is still under peer review and has not yet been formally accepted/published.
+(Guariento et al., *Ecology*, **2026**)
 
 ## Repository contents
 
@@ -38,14 +36,6 @@ Tested with **Python 3.10+** and the following packages:
 2. Click **File → Upload notebook** and select `manuscript_figures.ipynb` from your local machine.  
    *Alternatively*, click **File → Open notebook → GitHub**, paste this repository URL, and open `manuscript_figures.ipynb` directly.
 3. Run all cells (Runtime → Run all) directly in the Colab interface.
-
-
-## Citation
-
-If you use this code, please cite the final published article once available.  
-Until publication, please reference it as:
-
-Guariento et al., *Defense–Competition Trade-offs Shape Prey Eco-Evolutionary Dynamics Across Environmental Gradients*, manuscript under review at *Ecology*.
 
 ## Contact
 
